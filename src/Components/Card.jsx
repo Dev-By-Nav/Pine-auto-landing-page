@@ -16,7 +16,7 @@ function Card({ title, imageUrl, hoverImage }) {                  // function 'c
     <div
       className="flex flex-col justify-center lg:w-[30vw] md:w-[40vw] w-[75vw] mx-auto rounded-xl shadow-lg"
       onMouseEnter={MouseEntry}                         // Activates Mouse entry and exit
-      onMouseLeave={MouseExit}
+      onMouseLeave={MouseExit}                          // Event handling
     >
       <img
         className="w-full rounded-t-xl"
