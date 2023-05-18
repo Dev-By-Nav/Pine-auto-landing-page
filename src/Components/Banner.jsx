@@ -4,7 +4,7 @@ import BMW from '../assets/BMW_M5.jpg'
 
 const Banner = () => {
   return (
-    <div className='h-[50vw] flex'>
+    <div className='h-[50vw] flex justify-center'>
       <div className='absolute w-full'>
 
         <img src={BMW} alt="" className=' items-center p-4 rounded-4xl ' />
