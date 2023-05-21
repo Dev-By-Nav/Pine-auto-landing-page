@@ -2,7 +2,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <div className="flex justify-center bg-gray-800 h-[40vw] md:h-[15vw] m-4 items-center rounded-4xl text-white ">
+    <div className="flex justify-center bg-gray-800 h-[50vw] md:h-[15vw] m-4 items-center rounded-4xl text-white ">
       <div className="w-1/3 mx-4 text-center mb-4">
         <h1 className='mb-4 font-semibold'>COMPANY INFORMATION</h1>
         <ul className='select-text'>
