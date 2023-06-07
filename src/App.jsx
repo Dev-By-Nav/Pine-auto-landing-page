@@ -8,7 +8,7 @@ import Footer from './Components/Footer'
 
 const App = () => {
   return (
-    <div className='select-none'>
+    <div className=''>
       <Navbar />
       <Banner />
       <Cars />
