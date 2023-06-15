@@ -17,6 +17,7 @@ const Navbar = () => {
       <li className='p-4'>Vehicles</li>
       <li className='p-4'>Services</li>
       <li className='p-4'>Testimonials</li>
+      <li className='p-4'>Web by Nav</li>
       <button className='bg-[#5f51fc] text-white px-5 mx-2 m-1 rounded-lg whitespace-nowrap'>Contact Us</button>
     </ul>
       <div onClick={handleNav} className='block md:hidden'>
