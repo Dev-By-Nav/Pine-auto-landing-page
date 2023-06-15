@@ -30,6 +30,7 @@ const Navbar = () => {
           <li className='p-4 border-b border-gray-600'>Vehicles</li>
           <li className='p-4 border-b border-gray-600'>Services</li>
           <li className='p-4 border-b border-gray-600'>Testimonials</li>
+      <li className='p-4'>Web by Nav</li>
           <button className='bg-[#5f51fc] text-white p-3 m-1 mt-2 rounded-lg flex'>Contact Us</button>
         </ul>
       </div>
